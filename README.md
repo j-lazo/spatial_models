@@ -11,7 +11,7 @@ This repo contains the codes to simulate some spatial models, these are based in
 ## Results
 
 ### Activator-Inhibitor Video
-[video1](https://github.com/j-lazo/spatial_models/tree/master/results/activ_inhib_gu_1400.png)(https://youtu.be/Q_eaAH4DsCA)
+[![video1](https://github.com/j-lazo/spatial_models/tree/master/results/activ_inhib_gu_1400.png)] (https://youtu.be/Q_eaAH4DsCA)
 
 ### Activator-Substrate Video
-[video2](https://github.com/j-lazo/spatial_models/tree/master/results/activ_subu1000g.png)(https://youtu.be/Q_eaAH4DsCA)
+[![video2](https://github.com/j-lazo/spatial_models/tree/master/results/activ_subu1000g.png)](https://youtu.be/Q_eaAH4DsCA)
