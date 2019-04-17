@@ -31,7 +31,7 @@ kappa_a was varied from 0.0 to 0.25
 
 ![deltas](http://latex2png.com/output//latex_72882b258a9c60e7a925b584f8fa5119.png)
 
-![results1](results/activ_inhib_gu_1400.png "Image 1")
+![results1](results/activ_inhib_200g.png "Image 1")
 
 
 ### Activator-Substrate 
@@ -51,13 +51,13 @@ kappa_a was varied from 0.0 to 0.07 in steps of size 0.1
 
 ![deltas](http://latex2png.com/output//latex_72882b258a9c60e7a925b584f8fa5119.png)
 
-![results_2](https://github.com/j-lazo/spatial_models/tree/master/results/activ_subs_11500_00.png "Image 2")
+![results_2](results/activ_subs_11500_00.png "Image 2")
 
 ## Results
 
 ### Activator-Inhibitor Video
 
-[![video1](https://github.com/j-lazo/spatial_models/tree/master/results/activ_inhib_gu_1400.png)](https://youtu.be/Q_eaAH4DsCA)
+[![video1](results/activ_inhib_gu_1400.png)](https://youtu.be/Q_eaAH4DsCA)
 
 ### Activator-Substrate Video
-[![video2](https://github.com/j-lazo/spatial_models/tree/master/results/activ_subu1000g.png)](https://youtu.be/Q_eaAH4DsCA)
+[![video2](results/activ_subu1000g.png)](https://youtu.be/Q_eaAH4DsCA)
