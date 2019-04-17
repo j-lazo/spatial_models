@@ -58,6 +58,8 @@ kappa_a was varied from 0.0 to 0.07 in steps of size 0.1
 ### Activator-Inhibitor Video
 
 [![video1](results/activ_inhib_gu_1400.png)](https://youtu.be/Q_eaAH4DsCA)
+(Click on the image to be directed to the video)
 
 ### Activator-Substrate Video
 [![video2](results/activ_subu1000g.png)](https://youtu.be/Q_eaAH4DsCA)
+(Click on the image to be directed to the video)
