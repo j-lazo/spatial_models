@@ -31,7 +31,7 @@ kappa_a was varied from 0.0 to 0.25
 
 ![deltas](http://latex2png.com/output//latex_72882b258a9c60e7a925b584f8fa5119.png)
 
-![results1](https://github.com/j-lazo/spatial_models/tree/master/results/activ_inhib_gu_1400.png "Image 1")
+![results1](results/activ_inhib_gu_1400.png "Image 1")
 
 
 ### Activator-Substrate 
