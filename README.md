@@ -20,6 +20,8 @@ and the time derivative was approximated as
 
 ### Activator-Inhibitor 
 
+Parameters:
+
 | alpha  |   D   | rho   | mu    | sigma | kappa |
 | ------ |:-----:| -----:|:------|-------|-------|
 | a      | 0.005 | 0.01  | 0.01  |  0.0  | 0.0   |
@@ -29,7 +31,7 @@ kappa_a was varied from 0.0 to 0.25
 
 ![deltas](http://latex2png.com/output//latex_72882b258a9c60e7a925b584f8fa5119.png)
 
-![results_1](https://github.com/j-lazo/spatial_models/tree/master/results/activ_inhib_200g.png)
+![results1](https://github.com/j-lazo/spatial_models/tree/master/results/activ_inhib_200g.png "Image 1")
 
 
 ### Activator-Substrate 
@@ -37,6 +39,8 @@ kappa_a was varied from 0.0 to 0.25
 
 ![equation3](http://latex2png.com/output//latex_a98f1cbe6b58a2b777d1e0a8d1012b12.png)
 ![equation4](http://latex2png.com/output//latex_b6d0c6172b6fd44b1af56767a0b9edfc.png)
+
+Parameters:
 
 | alpha  |   D   | rho   | mu    | sigma | kappa |
 | ------ |:-----:| -----:|:------|-------|-------|
@@ -47,7 +51,7 @@ kappa_a was varied from 0.0 to 0.07 in steps of size 0.1
 
 ![deltas](http://latex2png.com/output//latex_72882b258a9c60e7a925b584f8fa5119.png)
 
-![results_1](https://github.com/j-lazo/spatial_models/tree/master/results/activ_subs_11500_00.png)
+![results_2](https://github.com/j-lazo/spatial_models/tree/master/results/activ_subs_11500_00.png "Image 2")
 
 ## Results
 
