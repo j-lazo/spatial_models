@@ -20,7 +20,7 @@ and the time derivative was approximated as
 
 ### Activator-Inhibitor 
 
-| \( \alpha \ A \)        | Are           | Cool  |
+| $latex \( \alpha \ A \) $       | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
