@@ -1,4 +1,4 @@
-# Spatial Models
+# Spatial Pattern Formation Models
 
 This repo contains the codes to simulate some spatial models, these are based in the following papers:
 
